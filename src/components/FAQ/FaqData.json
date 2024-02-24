@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "What is the difference between Java and JavaScript?",
+      "desc": "Explore the distinctions between Java and JavaScript. This FAQ covers their use cases, syntax, and where each is commonly employed in web development."
+    },
+    {
+      "id": 2,
+      "title": "How does Python manage memory?",
+      "desc": "Understand Python's memory management. This FAQ explains concepts like garbage collection, reference counting, and memory optimization strategies in Python programming."
+    },
+    {
+      "id": 3,
+      "title": "What is the significance of Git in version control?",
+      "desc": "Learn about the role of Git in version control. This FAQ discusses the importance of Git, its basic commands, and how it facilitates collaboration among developers in managing source code versions."
+    },
+    {
+      "id": 4,
+      "title": "How do you handle exceptions in C++?",
+      "desc": "Explore exception handling in C++. This FAQ covers try, catch, and throw mechanisms, helping developers understand how to manage errors and exceptions in C++ programming."
+    },
+    {
+      "id": 5,
+      "title": "What are the key features of TypeScript?",
+      "desc": "Discover the features of TypeScript. This FAQ highlights static typing, interfaces, and other characteristics that differentiate TypeScript from JavaScript, making it a powerful tool for building scalable applications."
+    },
+    {
+      "id": 6,
+      "title": "How can I secure my web application against common vulnerabilities?",
+      "desc": "Explore best practices for securing web applications. This FAQ provides insights into common vulnerabilities such as SQL injection and cross-site scripting (XSS), along with strategies to mitigate these risks."
+    },
+    {
+      "id": 7,
+      "title": "What are the emerging trends in programming languages?",
+      "desc": "Get insights into the latest trends in programming languages. This FAQ explores emerging languages, paradigms, and tools that are gaining popularity in the dynamic field of software development."
+    }
+  ]
+  
